@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-/* .star{
+.star{
 	background-color:yellow;
 	height:100px;
 	width:100px;
@@ -16,7 +16,7 @@
         39% 35%  /* top left */
 		
 	);
-} */
+}
 
 .star{
 	/* background-color:yellow; */
